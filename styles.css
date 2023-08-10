@@ -3,6 +3,9 @@
 	background-color:#D3D3D3;
 	padding: 10px;
 }
+ul{
+	display:flex;
+}
 .main{
 	display:inline;
 	margin-right:1rem;
