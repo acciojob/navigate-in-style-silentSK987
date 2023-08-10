@@ -1,9 +1,11 @@
 /*  your css code here. If applicable */
 .container{
 	background-color:#D3D3D3;
+	padding: 10px;
 }
 .main{
 	display:inline;
 	margin-right:1rem;
+	display:flex;
 	list-style:none;
 }
